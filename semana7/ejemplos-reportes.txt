@@ -1,0 +1,7 @@
+Ejemplo 1:
+Tipo: Infraestructura
+Descripción: Daño en alumbrado público.
+
+Ejemplo 2:
+Tipo: Ambiente
+Descripción: Acumulación de residuos en una zona comunitaria.s
